@@ -1,1 +1,1 @@
-# MSc-Object-Oriented-Lab-Cpp
+# MSc-Object-Oriented-Lab
